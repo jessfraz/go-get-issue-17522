@@ -1,0 +1,3 @@
+[submodule "vendor/rsc.io/letsencrypt"]
+	path = vendor/rsc.io/letsencrypt
+	url = https://github.com/rsc/letsencrypt
